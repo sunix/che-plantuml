@@ -1,0 +1,6 @@
+@startuml
+actor Foo1
+boundary Foo2
+Foo1 -> Foo2: To boundary
+
+@enduml
